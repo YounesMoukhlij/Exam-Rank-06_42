@@ -1,6 +1,6 @@
 ### 📍 This is the old 42 Exam-06, I tried to code it on my own, it works locally but during the exam session IT DOES NOT, so I tried this solution and it worked.
 
-
+--------------------------------------------------------------------------------
 
 Assignment name  : mini_serv
 Expected files   : mini_serv.c
